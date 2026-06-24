@@ -10,7 +10,7 @@ import sys
 import urllib.request
 
 # 1. Aapka GitHub Repository ka Direct Raw Link
-GITHUB_RAW_URL = "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/app.py"
+GITHUB_RAW_URL = "https://raw.githubusercontent.com/salmanaziz859-star/trutzschler-workspace/refs/heads/main/app.py"
 LOCAL_FILE = __file__  # Yeh is file ka apna local path khud pakad lega
 
 def check_for_updates():
