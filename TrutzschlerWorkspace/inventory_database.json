@@ -1,0 +1,556 @@
+{
+    "Blowroom": [
+        {
+            "id": "gen.1781846856.065161",
+            "name": "Portal Bale Opener BO-P 3500",
+            "code": "BO-P 3500",
+            "price": "1,58,825",
+            "specs": "Automatic bale opener\nVery good accessibility due to portal design\nSafeguarding close to the machine for a safe\nworkplace\nTwo opening rollers for a gentle opening\nWorking width max. 3,400 mm,\nProduction up to 2.500 kg/h for one material\nProduction up to 2,000 kg/h for two materials\nTotal length 30.250 mm\nTwo working areas with 24.450 mm together -\nflexible individual lengths\nMicrocomputer control for easy operation"
+        },
+        {
+            "id": "gen.1781848211.753316",
+            "name": "Fan BR-FD 500",
+            "code": "BR-FD 500",
+            "price": "3,234",
+            "specs": "Material transport fan,\nblade diameter 500 mm,\nspeed adjustment by frequency-controlled motor"
+        },
+        {
+            "id": "gen.1781848239.058716",
+            "name": "Manual Change Box BR-MC",
+            "code": "BR-MC",
+            "price": "2,283",
+            "specs": "In-pipe unit, manually operated pipe switch"
+        },
+        {
+            "id": "gen.1781848266.008148",
+            "name": "Fan BR-FD 425",
+            "code": "BR-FD 425",
+            "price": "4,654",
+            "specs": "Material transport fan,\nblade diameter 425 mm,\nspeed adjustment by frequency-controlled motor"
+        },
+        {
+            "id": "gen.1781848287.504677",
+            "name": "Universal Mixer MX-U10",
+            "code": "MX-U10",
+            "price": "1,96,813",
+            "specs": "Universally applicable mixer with 10 mixing\nchambers\nfor controlled mixing, the material is sucked off by\nthe\nsubsequent machine, microcomputer control\nSystem\nReduction of damages caused by fire by means of\nsensors in the machines which are connected to\nthe line control\nThis does not substitute installations for fire\nprotection and fire extinguishing"
+        },
+        {
+            "id": "gen.1781848310.476963",
+            "name": "Working Scaffold BR-WS",
+            "code": "BR-WS",
+            "price": "3,493",
+            "specs": "with ladder"
+        },
+        {
+            "id": "gen.1781848339.868714",
+            "name": "T-Distributor BR-TD",
+            "code": "BR-TD",
+            "price": "8,272",
+            "specs": "In-pipe unit for distributing the tuft stream to two\ngroups of cards"
+        },
+        {
+            "id": "gen.1781848378.683666",
+            "name": "Flex Flap BR-FF",
+            "code": "BR-FF",
+            "price": "1,087",
+            "specs": "In-pipe unit in the feed pipeline of the card s tuft\nfeeder,\nthe manually adjustable flap allows to assign the\ncards to\ndifferent feed lines"
+        },
+        {
+            "id": "gen.1781848403.468459",
+            "name": "Modification of Existing Control LC-M",
+            "code": "LC-M",
+            "price": "1,609",
+            "specs": "Individual modification of an existing control system"
+        },
+        {
+            "id": "gen.1781849296.332464",
+            "name": "Extension Unit Portal BR-EUP",
+            "code": "BR-EUP",
+            "price": "2,141",
+            "specs": "For extending the bale laydown length at the\nautomatic bale opener\nBO-P by 2.950 mm each"
+        },
+        {
+            "id": "gen.1781849318.244375",
+            "name": "BO-P MB Magnet Bar",
+            "code": "BO-P MB",
+            "price": "7,151",
+            "specs": "No additional technical specification provided."
+        },
+        {
+            "id": "gen.1781849338.473167",
+            "name": "Tr\u00fctzschler Seed Trap for BO-P",
+            "code": "BO-P",
+            "price": "",
+            "specs": "No additional technical specification provided."
+        },
+        {
+            "id": "gen.1781849364.244109",
+            "name": "Automatic Change Box BR-AC",
+            "code": "BR-AC",
+            "price": "",
+            "specs": "In-pipe unit, pneumatically operated pipe switch"
+        },
+        {
+            "id": "gen.1781849385.018181",
+            "name": "Magnet Trap BR-MT",
+            "code": "BR-MT",
+            "price": "",
+            "specs": "In-pipe unit, with 2 permanent magnets"
+        },
+        {
+            "id": "gen.1781849432.019375",
+            "name": "Pipeline Junction BR-PJ",
+            "code": "BR-PJ",
+            "price": "",
+            "specs": "In-pipe unit, transition piece from two pipelines into\none\ncollecting pipeline"
+        },
+        {
+            "id": "gen.1781849453.271256",
+            "name": "Multi Function Separator SP-MF",
+            "code": "SP-MF",
+            "price": "",
+            "specs": "multi function machine\nsucks material off a baleopener BLENDOMAT\nBO-A,\nintegrated de-dusting unit\nintegrated aerodynamic heavy part separator\nintegrated metall detection and extraction\nlarge-size waste container,\nmicrocomputer control system\nReduction of damages caused by fire by means of\nsensors in the machines which are connected to\nthe line control\nThis does not substitute installations for fire\nprotection and fire extinguishing"
+        },
+        {
+            "id": "gen.1781849507.711271",
+            "name": "High Performance Pre-Cleaner CL-X",
+            "code": "CL-X",
+            "price": "",
+            "specs": "Double-roll Pre-Cleaner for cotton,\nExtra large cleaning area in U-shape\nProduction up to 2.000 kg/h\nIntegrated waste sensor Wastecontrol\nSpeed of opening rollers adjustable by frequency\nInverter\nMotorized grid bar adjustment\nSynchronized lot Management for up to 3 lots\nAirflow control for optimal material Speed\nColour touchscreen"
+        },
+        {
+            "id": "gen.1781849547.231423",
+            "name": "2 Way Distribution BR-2W",
+            "code": "BR-2W",
+            "price": "",
+            "specs": "In-pipe unit, for distributing material from one\npipeline into two\npipelines simultaneously or alternatively, pneumatically operated"
+        },
+        {
+            "id": "gen.1781849604.411594",
+            "name": "Universal Cleaner CL-U",
+            "code": "CL-U",
+            "price": "",
+            "specs": "cotton cleaner for universal applications\nwith integrated material separator and dedusting\nBR-MS 1600\nlarge reserve trunk with steplessly adjustable 4-\nroller-feeding\nneedle roll with steplessly adjustable speed\ncleaning and carding elements\nwaste monitoring by 2 WASTECONTROL sensors\nmotorized precision mote knife setting system\nPMS\ncontinous waste suction\nmicrocomputer-system with color touchscreen\nsafety central locking"
+        },
+        {
+            "id": "gen.1781849636.158076",
+            "name": "Pipe Slide BR-PS",
+            "code": "BR-PS",
+            "price": "",
+            "specs": "No additional technical specification provided."
+        },
+        {
+            "id": "gen.1781849669.313697",
+            "name": "Installation Control LC-I2",
+            "code": "LC-I2",
+            "price": "",
+            "specs": "Electronic installation control, incl. electrical\ndistribution for all connected machines (without\ncards and draw frames), communication based on\na network with all machine controls, colour screen\nsensitive to touching with installation visualisation"
+        },
+        {
+            "id": "gen.1781849710.146682",
+            "name": "CO-Detect LC-CO2",
+            "code": "LC-CO2",
+            "price": "",
+            "specs": "Installation protection / Early warning system\nCO-Detectors with gas-sensors\nincl. piping pieves and control unit\nin material-, exhaust and waste pipes installed\ncarbon monoxide-detectors detect fires early\nThe connected control unit switches off the line\nincluding all fans in case of an alarm\nAll sensors are connected with the\nLinecommander LC-I2\nDoes not substitute fire detection or extinguishing\nsystems"
+        },
+        {
+            "id": "gen.1781850488.393116",
+            "name": "Material Separator BR-MS 1600U",
+            "code": "BR-MS 1600U",
+            "price": "",
+            "specs": "Separator for separating fibres from the transport\nair,\nworking width 1,600 mm\non a stand structure"
+        },
+        {
+            "id": "gen.1781850539.745302",
+            "name": "Integrated Heavy Part Separator SP-IH",
+            "code": "SP-IH",
+            "price": "",
+            "specs": "Heavy part separator for mounting to a universal\nbale opener\nBO-U or a condenser on stand BR-COU"
+        },
+        {
+            "id": "gen.1781850575.416715",
+            "name": "Universal Mixer MX-U6",
+            "code": "MX-U6",
+            "price": "",
+            "specs": "Universally applicable mixer with 6 mixing\nchambers\nfor controlled mixing, the material is sucked off by\nthe\nsubsequent machine, microcomputer control\nSystem\nReduction of damages caused by fire by means of\nsensors in the machines which are connected to\nthe line control\nThis does not substitute installations for fire\nprotection and fire extinguishing"
+        },
+        {
+            "id": "gen.1781850640.302404",
+            "name": "Installation Control LC-I1",
+            "code": "LC-I1",
+            "price": "",
+            "specs": "Electronic installation control, incl. electrical\ndistribution for\nall connected machines (without cards and draw\nframes),\ncommunication based on a network with all\nmachine controls,\ncolour screen sensitive to touching with installation\nvisualisation"
+        },
+        {
+            "id": "gen.1781850870.580866",
+            "name": "Tr\u00fctzschler Separator TS-T5",
+            "code": "TS-T5",
+            "price": "",
+            "specs": "Multifunctional foreign parts separator with 1.200\nmm working width with 5 detection technologies\ncolour-modul for a safe detection of coloured\nforeign parts\nPP-modul using polarized light for a safe detection\nof transparent and semi-transparent foreign parts\nUV-modul for a safe detection of fluorescent\nforeign parts\nG-modul for a safe detection of glossy foreign\nparts,\nmaintenance free long-life LED-illumination for\nhigher scan rates of the cameras,\nfor safe detection of thin, filamentary parts,\nselective removal of all detected foreign parts by a\nsystem of multiple nozzles,\nwaste suction with a large filter working scaffold\nfor\neasy operating and change of filter\nhigh resolution digital 4CCD colour-/\npolarisationcameras for\nthe colour- and gloss module and high Resolution\ndigital\n3CCD colour camera for P- and UV-module,\nintegrated control with colour touch screen for easy\noperating and calibrating,\nintegrated quality monitoring with a graphical\ndisplay of statistical data"
+        },
+        {
+            "id": "gen.1781850904.570548",
+            "name": "Fan BR-F 320",
+            "code": "BR-F 320",
+            "price": "",
+            "specs": "Fan for material transport and exhaust air,\nblade diameter 320 mm"
+        },
+        {
+            "id": "gen.1781851200.990833",
+            "name": "Universal Bale Opener BO-U",
+            "code": "BO-U",
+            "price": "",
+            "specs": "Manually fed universal bale opener\nfor processing staple fibres up to 130 mm in\nlength,\nfor medium and high production, feeding table\ncontrol,\nmicrocomputer control system"
+        },
+        {
+            "id": "gen.1781851230.284405",
+            "name": "Feed Table Extension BR-TE2",
+            "code": "BR-TE2",
+            "price": "",
+            "specs": "Extension of the feed table of the universal bale\nopener BO-U\nor of the weigh pan bale opener BL-BO by 1,980\nmm each"
+        },
+        {
+            "id": "gen.1781851309.212605",
+            "name": "Universal Cleaner CL-US",
+            "code": "CL-US",
+            "price": "",
+            "specs": "Cotton cleaner / chemical fibre opener for\nuniversal applications With integrated material\nseparator and dedusting BR MS 1600 Large spare\ntrunk with infinitely variable 4-roller feed Needle\nroller with infinitely variable speed Cleaning and\ncarding elements WASTECONTROL: Monitoring\nof waste quality by 2 sensors for processing cotton\nPrecision Mote Knife Setting System PMS with\nmotorized adjustment Continuous waste disposal\nMicrocomputer control with color touchscreen\nSafety central locking Fibre guiding parts made of\nstainless steel"
+        },
+        {
+            "id": "gen.1781851697.852306",
+            "name": "Stock Trunk FD-S 1600",
+            "code": "FD-S 1600",
+            "price": "",
+            "specs": "Material reserve trunk with integrated opener,\nfor staple fibres up to 130 mm in length,\nmicrocomputer control system"
+        },
+        {
+            "id": "gen.1781851732.379756",
+            "name": "Installation Control LC-I4",
+            "code": "LC-I4",
+            "price": "",
+            "specs": "Electronic installation control, incl. electrical\ndistribution for all\nconnected machines (without cards and draw\nframes),\ncommunication based on a network with all\nmachine controls,\ncolour screen sensitive to touching with installation\nvisualisation"
+        },
+        {
+            "id": "gen.1781851765.608241",
+            "name": "Change Box BR-MCR",
+            "code": "BR-MCR",
+            "price": "",
+            "specs": "Rectangular Change box, manually operated"
+        },
+        {
+            "id": "gen.1781851791.343228",
+            "name": "Modification to CONTIFEED2 LC-CF2",
+            "code": "LC-CF2",
+            "price": "",
+            "specs": "Modification of an existing opener or cleaner to\nContifeed 2\nfor optimized card feeding, including\nLinecommander LC-I for the opener / cleaner and\nthe card feeding with colour touchscreen for easy\noperation"
+        },
+        {
+            "id": "gen.1781851882.88302",
+            "name": "High Performance Feeder BL-HF",
+            "code": "BL-HF",
+            "price": "",
+            "specs": "Pneumatically fed feeder\nWorking width 1600 mm for feeding a weigh pan\nBL-WP\nfor production up to 800 kg/h"
+        },
+        {
+            "id": "gen.1781851911.862627",
+            "name": "Weigh Pan BL-WP",
+            "code": "BL-WP",
+            "price": "",
+            "specs": "Precision weigh pan for production up to 800 kg/h,\nwith 3-point suspension,\nwith electronic measuring sensors"
+        },
+        {
+            "id": "gen.1781851935.279137",
+            "name": "Tuft Conveyor BL-TC2",
+            "code": "BL-TC2",
+            "price": "",
+            "specs": "Tuft blending conveyor belt for feeding 2\ncomponents\nvia 2 machines,\nworking width 1,200 mm,\ndelivery on Tuft Blend-Opener BL-TO"
+        },
+        {
+            "id": "gen.1781851958.72276",
+            "name": "Tuft Blend-Opener BL-TO",
+            "code": "BL-TO",
+            "price": "",
+            "specs": "for production up to 2000 kg/h,\ngentle tuft opening with needle roll,\nworking width 1200 mm\nmicrocomputer control system"
+        },
+        {
+            "id": "gen.1781851986.4329",
+            "name": "Blend Control LC-BC",
+            "code": "LC-BC",
+            "price": "",
+            "specs": "Control for tuft blending installation,\nintegrated in LINECONTROL LC-I,\ncolour touchscreen for simple operation,\nrecipe management,\nquality control"
+        },
+        {
+            "id": "gen.1781852015.343095",
+            "name": "Installation Control LC-I3",
+            "code": "LC-I3",
+            "price": "",
+            "specs": "Electronic installation control, incl. electrical\ndistribution for all\nconnected machines (without cards and draw\nframes),\ncommunication based on a network with all\nmachine controls,\ncolour screen sensitive to touching with installation\nvisualisation"
+        },
+        {
+            "id": "gen.1781852519.882992",
+            "name": "Condenser on Stand BR-COU",
+            "code": "BR-COU",
+            "price": "",
+            "specs": "Material separator with integrated fan on a stand\nstructure,\nseparate drives for fan and dust cage,\ninner frame width 1.000 mm"
+        },
+        {
+            "id": "gen.1781852578.180739",
+            "name": "Trunk Feeder FD-TS 1600",
+            "code": "FD-TS 1600",
+            "price": "",
+            "specs": "Feed trunk for feeding a TUFTOMAT opener. Fibre\ncontacting parts in stainless steel, Frame width\n1.600 mm, production up to 1.000 kg/h"
+        },
+        {
+            "id": "gen.1781852608.54145",
+            "name": "Tuft Opener TO-T1 1600",
+            "code": "TO-T1 1600",
+            "price": "",
+            "specs": "High performance opener with fully spiked roll,\nproduction up to 1,000 kg/h, two-roll feeding unit,\nmicrocomputer control system"
+        },
+        {
+            "id": "gen.1781852734.812066",
+            "name": "Tuft Conveyor BL-TC4",
+            "code": "BL-TC4",
+            "price": "",
+            "specs": "Tuft blending conveyor belt for feeding 4\ncomponents\nvia 4 machines,\nworking width 1,200 mm,\ndelivery on Tuft Blend-Opener BL-TO"
+        },
+        {
+            "id": "gen.1782103216.832372",
+            "name": "Tr\u00fctzschler Scan/T-SCAN TS-T5",
+            "code": "T-SCAN TS-T5",
+            "price": "",
+            "specs": "Multifunctional foreign parts separator with 1.200\nmm working width with 5 detection technologies\ncolour-modul for a safe detection of coloured\nforeign parts\nPP modul using polarized light for a safe detection\nof transparent and semi-transparent foreign parts\nUV-modul for a safe detection of fluorescent\nforeign parts\nG-modul for a safe detection of glossy foreign\nparts,\nmaintenance free long-life LED-illumination for\nhigher scan rates of the cameras,\nfor safe detection of thin, filamentary parts,\nselective removal of all detected foreign parts by a\nsystem of multiple nozzles,\nwaste suction with a large filter working scaffold\nfor\neasy operating and change of filter\nhigh resolution digital 4CCD colour-/\npolarisationcameras for\nthe colour- and gloss module and high Resolution\ndigital\n3CCD colour camera for P- and UV-module,\nintegrated control with colour touch screen for easy\noperating and calibrating,\nintegrated quality monitoring with a graphical\ndisplay of statistical data."
+        },
+        {
+            "id": "gen.1782103261.205334",
+            "name": "Air Separator BR-ASI",
+            "code": "BR-ASI",
+            "price": "",
+            "specs": "In pipe unit, for branching a servomotor adjustable\npartial air stream from the pneumatic fibre\ntransport,\nadditional dedusting function"
+        }
+    ],
+    "Card": [
+        {
+            "id": "gen.1781848440.65559",
+            "name": "Tr\u00fctzschler Card TC 26i",
+            "code": "TC 26i",
+            "price": "",
+            "specs": "Gap Optimizer T-GO\nWASTECONTROL\n1.280 mm working width\n5,3 m\u00b2 area of cylinder wire\nsettings optimizer T-CON 3\nflat setting system PFSM 40\nprecision moteknife-setting system PMSM\nmagnet-flat MAGNOTOP 3\nintegrated Tuft Feeder DIRECTFEED\ndetection of metal and thick places in\nthe licker-in zone\nintegrated tray SENSOFEEDplus with levelling\nthree licker-in system WEBFEED\npremium card clothing TCC SUPERTIP\nvariable speed TC-VSD for cylinder\nand WEBFEED\naluminium flats, driven by toothed belt\nMULTIWEBCLEAN system MTT\nSuction hood on doffer\nHigh performance web doffing unit for\ndelivery speed up to 500 m/min\nshort-term and long-term auto-leveller\nMulti-Touchscreen and RFID identification\nconnectivity with the apps MY MILL\ndigitaly controlled, service-free drives\nnetwork interface with LINECOMMANDER\nQuality data monitoring and visualisation:\ndisplay of spectogram, thick-places, CV-values,\nspectrogram analyses\nmaintenance management\nelectronical cylinder brake\ncentral safety locking system\ncontrolled waste suction, upwards"
+        },
+        {
+            "id": "gen.1781848461.631063",
+            "name": "Automatic Can Changer TC-CCL 1000",
+            "code": "TC-CCL 1000",
+            "price": "",
+            "specs": "Linear can changer"
+        },
+        {
+            "id": "gen.1781848486.717838",
+            "name": "Suction TC-SD",
+            "code": "TC-SD",
+            "price": "",
+            "specs": "Surcharge for suction downwards"
+        },
+        {
+            "id": "gen.1781848513.139046",
+            "name": "Flat Strip Suction Below Floor TC-FSD",
+            "code": "TC-FSD",
+            "price": "",
+            "specs": "downwards"
+        },
+        {
+            "id": "gen.1781849753.398951",
+            "name": "Tr\u00fctzschler Card TC 30i",
+            "code": "TC 30i",
+            "price": "",
+            "specs": "Gap Optimizer T-GO\nWASTECONTROL\n1.280 mm working width\n5,6 m\u00b2 area of cylinder wire\nsettings optimizer T-CON 4\nflat setting system PFSM 40\nprecision moteknife-setting system PMSM 2\nmagnet-flat MAGNOTOP 3\nintegrated Tuft Feeder DIRECTFEED\ndetection of metal and thick places in\nthe licker-in zone\nintegrated tray SENSOFEEDplus with levelling\nthree licker-in system WEBFEED\npremium card clothing TCC SUPERTIP\nvariable speed TC-VSD for cylinder\nand WEBFEED\naluminium flats, driven by toothed belt\nMULTIWEBCLEAN system MTT\nSuction hood on doffer\nHigh performance web doffing unit for\ndelivery speed up to 500 m/min\nshort-term and long-term auto-leveller\nComputer control with large, colorful touchscreen\nconnectivity with the apps MY MILL\ndigitaly controlled, service-free drives\nnetwork interface with LINECOMMANDER\nQuality data monitoring and visualisation:\ndisplay of spectogram, thick-places, CV-values,\nspectrogram analyses\nmaintenance management\nelectronical cylinder brake\ncentral safety locking system\ncontrolled waste suction, upwards"
+        },
+        {
+            "id": "gen.1781849778.164139",
+            "name": "Automatic Can Changer TC-CCL 1200",
+            "code": "TC-CCL 1200",
+            "price": "",
+            "specs": "Linear can changer"
+        },
+        {
+            "id": "gen.1781849820.964337",
+            "name": "TC-FBC",
+            "code": "TC-FBC",
+            "price": "",
+            "specs": "No additional technical specification provided."
+        },
+        {
+            "id": "gen.1781849844.078834",
+            "name": "Flat Grinding Device TC-FG13 MT3",
+            "code": "TC-FG13 MT3",
+            "price": "",
+            "specs": "Mobile flat grinding roll for high production cards\nincl. a pair of adaptors for the card TC 19 / TC 19i /\nTC 26 / TC 26i / TC 30 / TC 30i"
+        },
+        {
+            "id": "gen.1781849902.057553",
+            "name": "Overfloor strip suction TC-FSU",
+            "code": "TC-FSU",
+            "price": "",
+            "specs": "upwards"
+        },
+        {
+            "id": "gen.1781850688.110613",
+            "name": "Man Made Fiber Set TC-MMF",
+            "code": "TC-MMF",
+            "price": "",
+            "specs": "No additional technical specification provided."
+        },
+        {
+            "id": "gen.1781851355.903894",
+            "name": "Tr\u00fctzschler Card TC 15",
+            "code": "TC 15",
+            "price": "",
+            "specs": "1.280 mm working width\n5,3m\u00b2 area of cylinder wire\nsettings optimizer T-CON\nflat bar ClassicTop\nintegrated flockfeeder DIRECTFEED with flexible\ntray and integrated leveller\ndetection of metal and thick places in the licker-in\nzone\nintegrated tray SENSOFEED plus with levelling\nprecision moteknife-setting PMS\nthree licker-in system WEBFEED\npremium card clothing TCC NOVOTOP\naluminium flats, driven by toothed belt\nprecision flat setting system PFS\nstepplessly adjustable flatspeed\nMULTIWEBCLEAN system MTT\nHigh performance web doffing unit for tension draft\nand sliver forming for delivery speed up to 500\nm/min.\nshort-term and long-term auto-leveller,\ncomputer control with large, colour touchscreen\ndigitaly controlled, service-free drives\nbi-directional data transfer by USB Flash\nnetwork interface to communicate with\nLINECOMMANDER\ndisplay of spectogram, thick places and short termCV-values spectrogram analyses\nmaintenance management\nelectronical cylinder brake CB\nThe machines will be supplied for a voltage\nbetween 380V to 440V.\nFunctional design for a very good accessability\nservice friendly cover with windows\ncentral safety locking system\ncontrolled continous waste suction, upwards\ndelivery on can changer TC-CC or automatic can\nfilling station TC TM or integrated draw frame IDF 2"
+        },
+        {
+            "id": "gen.1781851385.691028",
+            "name": "Multi Twin Top TC-MTT",
+            "code": "TC-MTT",
+            "price": "",
+            "specs": "No additional technical specification provided."
+        },
+        {
+            "id": "gen.1781851490.169244",
+            "name": "Integrated Draw Frame IDF 3",
+            "code": "IDF 3",
+            "price": "",
+            "specs": "ntegrated draw frame for mounting to the\nautomatic\ncan changer of a card TC,\n2 over 2 drafting system with pneumatic top roll\nloading,\nshort-wave auto-leveller, integrated suction\nsystem,\ncomprehensive quality monitoring (sliver fineness,\nsliver evenness,\nspectrogram, thick places), controlled by the card\nwith\nfully-automatic production regulation,\nControlled sliver storage.\nmaintenance-free, digitally controlled\nservomotors,\nthe sliver is delivered to the integrated automatic\ncan changer\nwith passive can feeding CAN TRACK"
+        },
+        {
+            "id": "gen.1781852070.901139",
+            "name": "Tr\u00fctzschler Card TC 30Si Man Made\nFibers",
+            "code": "TC 30Si",
+            "price": "",
+            "specs": "Gap Optimizer T-GO\n1.280 mm working width\n5,6 m\u00b2 area of cylinder wire\nall fibre guiding plates in stainless steel\nsettings optimizer T-CON 4\nflat setting system PFSM 40\nprecision moteknife-setting system PMS 2\nmagnet-flat MAGNOTOP 3\nintegrated Tuft Feeder DIRECTFEED\ndetection of metal and thick places in\nthe licker-in zone\nintegrated tray SENSOFEEDplus with levelling\none licker-in system WEBFEED\npremium card clothing TCC SUPERTIP\nvariable speed TC-VSD for cylinder\nand WEBFEED\naluminium flats, driven by toothed belt\nMULTIWEBCLEAN\nsystem MTT Man Made Fibers\nSuction hood on doffer\nHigh performance web doffing unit for\ndelivery speed up to 500 m/min\nshort-term and long-term auto-leveller\nComputer control with large, colorful touchscreen\nconnectivity with the apps MY MILL\ndigitaly controlled, service-free drives\nnetwork interface with LINECOMMANDER\nQuality data monitoring and visualisation:\ndisplay of spectogram, thick-places, CV-values,\nspectrogram analyses\nmaintenance management\nelectronical cylinder brake\ncentral safety locking system\ncontrolled waste suction, upwards"
+        },
+        {
+            "id": "gen.1782103342.269313",
+            "name": "Tr\u00fctzschler Card TC 19i",
+            "code": "TC 19i",
+            "price": "",
+            "specs": "Gap Optimizer T-GO\nWASTECONTROL\n1.280 mm working width\n5,3m\u00b2 area of cylinder wire\nsettings optimizer T-CON3\nprecision moteknife-setting system PMSM\nmagnet-flat MAGNOTOP3\nintegrated Tuft Feeder DIRECTFEED with flexible\ntray and integrated leveller\ndetection of metal and thick places in the licker-in\nzone\nintegrated tray SENSOFEEDplus with levelling\nthree licker-in system WEBFEED\npremium card clothing TCC SUPERTIP\nvariable speed TC-VSD for cylinder and\nWEBFEED\naluminium flats, driven by toothed belt\nsteplessly adjustable flatspeed\nMULTIWEBCLEAN system MTT\nSuction hood on doffer\nHigh performance web doffing unit for tension draft\nand\nsliver forming for delivery speed up to 500 m/min.\nshort-term and long-term auto-leveller\ncomputer control with large, colour MultiTouchscreen and RFID identification\nconnectivity with the apps MY MILL and MY\nPRODUCTION\ndigitaly controlled, service-free drives\nnetwork interface to communicate with\nLINECOMMANDER\nQuality data monitoring and visualisation:\ndisplay of spectogram, thick-places, short-termCV-values, spectrogram analyses\nmaintenance management\nelectronical cylinder brake\nThe machines will be supplied for a voltage\nbetween 380V to 440V.\nFunctional design for a very good accessability\nservice friendly cover with windows\ncentral safety locking system\ncontrolled continous waste suction, upwards\ndelivery on Can Changer TC-CC, TC-CCL,\nAutomatic Can\nFilling Station T-MOVE TC-TM or Integrated Draw\nFrame IDF 2."
+        },
+        {
+            "id": "gen.1782103388.413579",
+            "name": "Flat Strip Suction Above Floor TC FSD",
+            "code": "TC FSD",
+            "price": "",
+            "specs": "downwards"
+        }
+    ],
+    "Drawing": [
+        {
+            "id": "gen.1781848545.235761",
+            "name": "Tr\u00fctzschler Twin Breaker TD 9T",
+            "code": "TD 9T",
+            "price": "",
+            "specs": "TWIN-version of Tr\u00fctzschler breaker draw frame\nfor can format 1000 mm\nno efficiency interconnection through separate\ndrive technology of both breaker heads,\nentire design function-oriented for good\naccessibility of all subassemblies of the machine,\nmaintenance-free, power-saving drives,\nhighly dynamic 4 over 3 drafting system with\npressure bar,\npneumatic, adjustable individual loading of each\ntop roll,\nquick relief during standstill,\ncomputer control system with colour touch screen,\nmonitored central suction system,\nrake-type sliver feed, double row for up to 8-fold\ndoubling,\ncan changer underfloor with sliver separator"
+        },
+        {
+            "id": "gen.1781848565.543625",
+            "name": "Integrated Filter TD-FB9T",
+            "code": "TD-FB9T",
+            "price": "",
+            "specs": "Integrated high-volume filter box for draw frame,\ninstead of central suction system,\nincl. fan, filter and collecting container"
+        },
+        {
+            "id": "gen.1781848587.304981",
+            "name": "Smart Creel TD-SC9T",
+            "code": "TD-SC9T",
+            "price": "",
+            "specs": "separately driven, double-row sliver feed creel,\nrake-type sliver feed is dropped"
+        },
+        {
+            "id": "gen.1781848611.857662",
+            "name": "Jumbo Can TD 9T-JC",
+            "code": "TD 9T-JC",
+            "price": "",
+            "specs": "surcharge for can format JUMBO CANS 1200 mm"
+        },
+        {
+            "id": "gen.1781849980.828391",
+            "name": "Tr\u00fctzschler Draw Frame TD 10C",
+            "code": "TD 10C",
+            "price": "",
+            "specs": "for the COMPACT space-saving assembly\nFunction-oriented, space saving design for good\naccessibility of all\nsubassemblies of the machine,\nmaintenance-free, power-saving, highly dynamic,\ndigitally\ncontrolled servo drives,\nindividual drives for infinitely variable adjustment\nof\ndelivery speed, sliver count and draft,\n4 over 3 drafting system with pressure bar,\npneumatic, adjustable individual loading of each\ntop roll,\nquick relief during standstill,\ncomputer control system with colour touch screen,\nVisualization of the machine status with T-LED\npower saving, monitored central suction system,\nIncl. SMART CREEL TD-SC,\ndouble row for up to 8-fold doubling,\nintelligent single sliver monitoring\ncan changer with sliver separator for round cans\nwith 400, 450,\n500, or 600 mm diameter and up to 1,500 mm\nheight\npassive can feeding CAN TRACK\nAutoleveller TD-DL\nShort-term leveller SERVO DRAFT, comprehensive quality\nmonitoring DISC MONITOR (sliver fineness, sliver\nevenness,\nthick places, spectrogram)"
+        },
+        {
+            "id": "gen.1781850009.224725",
+            "name": "Integrated Filter TD-FB10",
+            "code": "TD-FB10",
+            "price": "",
+            "specs": "Integrated high-volume filter box for draw frame,\ninstead of central suction system,\nincl. fan, filter and collecting container"
+        },
+        {
+            "id": "gen.1781850033.868572",
+            "name": "Can Trolley System TD-CT",
+            "code": "TD-CT",
+            "price": "",
+            "specs": "for the delivery of 4 cans with up to 600 mm\ndiameter onto a\ncan trolley, the can delivery ramp is dropped, the\ncan trolley is\nnot included in the scope of delivery"
+        },
+        {
+            "id": "gen.1781850059.178414",
+            "name": "Optimization Set TD-OS",
+            "code": "TD-OS",
+            "price": "",
+            "specs": "Automatic determination of the material-specific\noptimum break\ndraft with AUTO DRAFT,\nadditional digitally controlled individual drive for the\ncentral drafting\nsystem roll, draft force measurement, optimization\nsoftware"
+        },
+        {
+            "id": "gen.1781851033.161926",
+            "name": "Tr\u00fctzschler Draw Frame TD 10",
+            "code": "TD 10",
+            "price": "",
+            "specs": "Function-oriented, space saving design for good\naccessibility of all\nsubassemblies of the machine,\nmaintenance-free, power-saving, highly dynamic,\ndigitally\ncontrolled servo drives,\nindividual drives for infinitely variable adjustment\nof\ndelivery speed, sliver count and draft,\n4 over 3 drafting system with pressure bar,\npneumatic, adjustable individual loading of each\ntop roll,\nquick relief during standstill,\ncomputer control system with colour touch screen,\nVisualization of the machine status with T-LED\npower saving, monitored central suction system,\nIncl. SMART CREEL TD-SC,\ndouble row for up to 8-fold doubling,\nintelligent single sliver monitoring\ncan changer with sliver separator for round cans\nwith 400, 450,\n500, or 600 mm diameter and up to 1,500 mm\nheight\npassive can feeding CAN TRACK\nAutoleveller TD-DL\nShort-term leveller SERVO DRAFT, comprehensive quality\nmonitoring DISC MONITOR (sliver fineness, sliver\nevenness,\nthick places, spectrogram)"
+        },
+        {
+            "id": "gen.1781851577.786371",
+            "name": "Tr\u00fctzschler Draw Frame TD 10-12 Fold",
+            "code": "TD 10-12 Fold",
+            "price": "",
+            "specs": "Function-oriented, space saving design for good\naccessibility of all\nsubassemblies of the machine,\nmaintenance-free, power-saving, highly dynamic,\ndigitally\ncontrolled servo drives,\nindividual drives for infinitely variable adjustment\nof\ndelivery speed, sliver count and draft,\n4 over 3 drafting system with pressure bar,\npneumatic, adjustable individual loading of each\ntop roll,\nquick relief during standstill,\ncomputer control system with colour touch screen,\nVisualization of the machine status with T-LED\npower saving, monitored central suction system,\nIncl. SMART CREEL TD-SC,\ndouble row for up to 12-fold doubling,\nintelligent single sliver monitoring\ncan changer with sliver separator for round cans\nwith 400, 450,\n500, or 600 mm diameter and up to 1,500 mm\nheight\npassive can feeding CAN TRACK\nAutoleveller TD-DL\nShort-term leveller SERVO DRAFT, comprehensive quality\nmonitoring DISC MONITOR (sliver fineness, sliver\nevenness,\nthick places, spectrogram"
+        },
+        {
+            "id": "gen.1781851610.553384",
+            "name": "Integrated Filter TD-FB10 12",
+            "code": "TD-FB10 12",
+            "price": "",
+            "specs": "Integrated high-volume filter box for draw frame,\ninstead of central suction system,\nincl. fan, filter and collecting container"
+        }
+    ],
+    "Comber": [
+        {
+            "id": "gen.1781848722.433535",
+            "name": "Tr\u00fctzschler Superlap TSL 12",
+            "code": "TSL 12",
+            "price": "",
+            "specs": "Lap dimension: 300 mm wide and max. 650 mmdiameter\nLap weight: 50-80ktex\nMechanically designed for a delivery speed of\n180m/min\nFeeding with 24 cans with 600, 1.000 or 1.200 mmdiameter (Jumbo Can)\n2 drafting heads 3over3 with variable adjustable\ndraft and pneumatically loaded top-rollers\nControlled lap forming\nDelivery to a lap carriage\nPrepared for automatic lap transport\nAutomatic change of laps\nincl. laplifting device TSL-LL\nLoader for spare tubes\nColoured touch-screen allows easiest handling"
+        },
+        {
+            "id": "gen.1781848742.720094",
+            "name": "Integrated Filter TSL-FB",
+            "code": "TSL-FB",
+            "price": "",
+            "specs": "Integrated high-volume filter box instead of central\nsuction system,\nincl. fan, filter and collecting container"
+        },
+        {
+            "id": "gen.1781848768.890029",
+            "name": "Tr\u00fctzschler Comber TCO 21XL",
+            "code": "TCO 21XL",
+            "price": "",
+            "specs": "With 12 combing heads\n600 nips per minute\nCOUNT MONITORING: Setting the limit for sliver\ncount variations on display, automatic warning and\nswitch-off function if exceeded\nTop roller load monitoring for stepless adjustment\nof the pneumatic load on the top rollers as well\ndisplay and monitoring via Screen\nTr\u00fctzschler electronic components with high\ndurability, long spare parts availability and\ncompatibility with other Tr\u00fctzschler machines\n2-TWIN DRIVE torsion reduced single drive\ntechnology for the cutting roll\nCOMBING OPTIMIZER self-optimizing settings of\nthe piecing period\nDISC MONITORING permanent over-all quality\ncontrol\nDUAL DRIVE doublesided drive for round comb\nand feeding roll\n4over3 drafting system with pressure bar\nOne drive for feeding and delivery rolls of the\ndrafting system\nUnderfloor design for cans with diameter 1000\nmm\nAutomatic can changer for cans with diameter\n1000 mm\nSeparate drive of the coiler plate\nSMART TOUCH multi-touch screen for easy\noperation as well as user identification via RFID\nchip and display of user specific information\nT-LED remote display to visualize machine status\nAutomatic Greasing System TCO-AG\nCount Control TCO-CC\nAutomatic count measurement\nAutomatic draft regulation to balance count\nvariations and keep the desired sliver count\nTwo drives for automatic adaptation of draft during\nproduction."
+        },
+        {
+            "id": "gen.1781848792.194052",
+            "name": "Feeding Device TCO-LF",
+            "code": "TCO-LF",
+            "price": "",
+            "specs": "for the comber TCO 21"
+        }
+    ]
+}

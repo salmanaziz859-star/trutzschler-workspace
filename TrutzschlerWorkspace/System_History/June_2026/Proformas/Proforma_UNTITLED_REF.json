@@ -1,0 +1,644 @@
+{
+    "type": "Proforma",
+    "factory": "",
+    "address": "",
+    "offer": "UNTITLED_REF",
+    "project": "",
+    "date": "22.06.2026",
+    "month": "June_2026",
+    "total_value": 794125.0,
+    "selections": {
+        "Blowroom": [
+            {
+                "checked": 1,
+                "code": "BO-P 3500",
+                "code_show": 1,
+                "qty": "5",
+                "price": "1,58,825",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "BR-FD 500",
+                "code_show": 1,
+                "qty": "",
+                "price": "3,234",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "BR-MC",
+                "code_show": 1,
+                "qty": "",
+                "price": "2,283",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "BR-FD 425",
+                "code_show": 1,
+                "qty": "",
+                "price": "4,654",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "MX-U10",
+                "code_show": 1,
+                "qty": "",
+                "price": "1,96,813",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "BR-WS",
+                "code_show": 1,
+                "qty": "",
+                "price": "3,493",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "BR-TD",
+                "code_show": 1,
+                "qty": "",
+                "price": "8,272",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "BR-FF",
+                "code_show": 1,
+                "qty": "",
+                "price": "1,087",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "LC-M",
+                "code_show": 1,
+                "qty": "",
+                "price": "1,609",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "BR-EUP",
+                "code_show": 1,
+                "qty": "",
+                "price": "2,141",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "BO-P MB",
+                "code_show": 1,
+                "qty": "",
+                "price": "7,151",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "BO-P",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "BR-AC",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "BR-MT",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "BR-PJ",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "SP-MF",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "CL-X",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "BR-2W",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "CL-U",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "BR-PS",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "LC-I2",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "LC-CO2",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "BR-MS 1600U",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "SP-IH",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "MX-U6",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "LC-I1",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TS-T5",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "BR-F 320",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "BO-U",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "BR-TE2",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "CL-US",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "FD-S 1600",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "LC-I4",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "BR-MCR",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "LC-CF2",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "BL-HF",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "BL-WP",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "BL-TC2",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "BL-TO",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "LC-BC",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "LC-I3",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "BR-COU",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "FD-TS 1600",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TO-T1 1600",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "BL-TC4",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "T-SCAN TS-T5",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "BR-ASI",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            }
+        ],
+        "Card": [
+            {
+                "checked": 0,
+                "code": "TC 26i",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TC-CCL 1000",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TC-SD",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TC-FSD",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TC 30i",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TC-CCL 1200",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TC-FBC",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TC-FG13 MT3",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TC-FSU",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TC-MMF",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TC 15",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TC-MTT",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "IDF 3",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TC 30Si",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TC 19i",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TC FSD",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            }
+        ],
+        "Drawing": [
+            {
+                "checked": 0,
+                "code": "TD 9T",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TD-FB9T",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TD-SC9T",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TD 9T-JC",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TD 10C",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TD-FB10",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TD-CT",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TD-OS",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TD 10",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TD 10-12 Fold",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TD-FB10 12",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            }
+        ],
+        "Comber": [
+            {
+                "checked": 0,
+                "code": "TSL 12",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TSL-FB",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TCO 21XL",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            },
+            {
+                "checked": 0,
+                "code": "TCO-LF",
+                "code_show": 1,
+                "qty": "",
+                "price": "",
+                "price_show": 1
+            }
+        ]
+    }
+}
