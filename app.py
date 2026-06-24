@@ -495,7 +495,7 @@ class MasterSystemApp(ctk.CTk):
             frame_th.pack(fill="x", padx=10, pady=6)
             
             ctk.CTkLabel(frame_th, text="Sel", width=45, font=("Arial", 12, "bold"), anchor="center").pack(side="left")
-            ctk.CTkLabel(frame_th, text="Items ", width=340, anchor="w", font=("Arial", 12, "bold")).pack(side="left", padx=10)
+            ctk.CTkLabel(frame_th, text="Items n ", width=340, anchor="w", font=("Arial", 12, "bold")).pack(side="left", padx=10)
             ctk.CTkLabel(frame_th, text="Code Configuration", width=170, font=("Arial", 12, "bold"), anchor="w").pack(side="left", padx=5)
             ctk.CTkLabel(frame_th, text="Unit Price (€)", width=160, font=("Arial", 12, "bold"), anchor="w").pack(side="left", padx=5) 
             ctk.CTkLabel(frame_th, text="Qty", width=65, font=("Arial", 12, "bold"), anchor="center").pack(side="left", padx=5)
