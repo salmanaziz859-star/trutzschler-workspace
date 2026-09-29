@@ -5,6 +5,10 @@ import shutil
 import logging
 import glob
 import webbrowser
+
+# Sidebar footer mein dikhane ke liye — launcher (ap2.py) is number ko GitHub
+# ke version.txt/release se compare karta hai, yahan sirf display ke liye hai.
+CURRENT_VERSION = "1.0"
 from datetime import datetime
 import calendar as calendar_module
 import customtkinter as ctk
