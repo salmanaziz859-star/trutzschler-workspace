@@ -1,5 +1,6 @@
 import os
 import sys
+import re
 import urllib.request
 
 # =====================================================================
@@ -35,11 +36,33 @@ CORE_APP_PATH = os.path.join(APP_DATA_DIR, "core_app.py")
 CORE_APP_URL = "https://raw.githubusercontent.com/salmanaziz859-star/trutzschler-workspace/main/core_app.py"
 
 
+def extract_version(code_text):
+    """core_app.py ke text se CURRENT_VERSION = "x.x" wali line nikaal kar
+    sirf version number wapas karta hai. Agar na mile to None."""
+    if not code_text:
+        return None
+    match = re.search(r'CURRENT_VERSION\s*=\s*["\']([^"\']+)["\']', code_text)
+    return match.group(1) if match else None
+
+
 def fetch_latest_code():
     """GitHub se sabse naya core_app.py download karke local cache update karta hai.
     Agar internet na ho ya GitHub down ho, to purana cached wala code chal jayega
     (agar pehle kabhi download ho chuka ho) — is se app kabhi bhi 'internet nahi hai
-    isliye bilkul nahi chalegi' wali halat mein nahi jati."""
+    isliye bilkul nahi chalegi' wali halat mein nahi jati.
+
+    Returns: (old_version, new_version) — taake caller ye decide kar sake ke
+    'Software updated' wala popup dikhana hai ya nahi."""
+    old_version = None
+    if os.path.exists(CORE_APP_PATH):
+        try:
+            with open(CORE_APP_PATH, "r", encoding="utf-8") as f:
+                old_version = extract_version(f.read())
+        except Exception:
+            pass
+
+    new_version = old_version  # default: agar download fail ho to "no change" maana jaye
+
     try:
         req = urllib.request.Request(CORE_APP_URL, headers={"Cache-Control": "no-cache"})
         with urllib.request.urlopen(req, timeout=6) as response:
@@ -50,6 +73,7 @@ def fetch_latest_code():
         if new_code and len(new_code.strip()) > 100:
             with open(CORE_APP_PATH, "w", encoding="utf-8") as f:
                 f.write(new_code)
+            new_version = extract_version(new_code)
             print("[Launcher] Latest code GitHub se mil gaya.")
         else:
             print("[Launcher] GitHub se khaali response mila — purana cached code use ho raha hai.")
@@ -57,6 +81,26 @@ def fetch_latest_code():
     except Exception as e:
         print(f"[Launcher] Update check skipped (offline mode): {e}")
         print("[Launcher] Purana cached code (agar mojood hai) use ho raha hai.")
+
+    return old_version, new_version
+
+
+def show_update_popup(old_version, new_version):
+    """Sirf tab popup dikhata hai jab: pehle se koi version cached tha (first
+    install par popup nahi aana chahiye) AUR version waqai badla ho."""
+    if old_version and new_version and old_version != new_version:
+        try:
+            import tkinter as tk
+            from tkinter import messagebox
+            root = tk.Tk()
+            root.withdraw()  # Khaali background window na dikhe
+            messagebox.showinfo(
+                "Software Updated",
+                f"Software update ho gaya hai!\n\nPurana Version: v{old_version}\nNaya Version: v{new_version}"
+            )
+            root.destroy()
+        except Exception as e:
+            print(f"[Launcher] Update popup dikhane mein masla: {e}")
 
 
 def run_core_app():
@@ -77,5 +121,6 @@ def run_core_app():
 
 
 if __name__ == "__main__":
-    fetch_latest_code()
+    old_ver, new_ver = fetch_latest_code()
+    show_update_popup(old_ver, new_ver)
     run_core_app()
