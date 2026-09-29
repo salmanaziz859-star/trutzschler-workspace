@@ -30,7 +30,7 @@ ctk.set_appearance_mode("System")
 ctk.set_default_color_theme("blue")
 
 ADMIN_USER = "admin"
-ADMIN_PASS = "1234"
+ADMIN_PASS = "1234@"
 
 # - - - - PERMANENT STORAGE SETUP (Cross-Platform) - - - -
 # Windows par pehle jaisa C:\TrutzschlerData use hota hai; Mac/Linux par
