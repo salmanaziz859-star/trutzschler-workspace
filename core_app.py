@@ -1,3 +1,10 @@
+import os
+import sys
+import json
+import shutil
+import logging
+import glob
+import webbrowser
 from datetime import datetime
 import calendar as calendar_module
 import customtkinter as ctk
