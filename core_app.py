@@ -6,6 +6,22 @@ import logging
 import glob
 import webbrowser
 import tempfile
+import subprocess
+
+
+def open_file_with_default_app(file_path):
+    """Preview file (PDF/Excel) ko default app mein kholta hai — har platform
+    ka apna sabse pakka/native tareeka (webbrowser.open se zyada reliable,
+    khaas kar Mac par .app bundle ke andar se chalne par)."""
+    try:
+        if sys.platform == "win32":
+            os.startfile(file_path)
+        elif sys.platform == "darwin":
+            subprocess.run(["open", file_path], check=True)
+        else:
+            subprocess.run(["xdg-open", file_path], check=True)
+    except Exception as e:
+        messagebox.showerror("Open Error", f"File ban gayi hai lekin khul nahi saki:\n{file_path}\n\nError: {e}")
 
 # Sidebar footer mein dikhane ke liye — launcher (ap2.py) is number ko GitHub
 # ke version.txt/release se compare karta hai, yahan sirf display ke liye hai.
@@ -3433,7 +3449,7 @@ class MasterSystemApp(ctk.CTk):
 
             temp_preview_path = os.path.join(tempfile.gettempdir(), "trutzschler_temp_preview.pdf")
             self.build_pdf_document_engine(temp_preview_path, override_data=override_data)
-            webbrowser.open(temp_preview_path)
+            open_file_with_default_app(temp_preview_path)
         except Exception as e:
             log_error("Dashboard double-click preview failed", e)
             messagebox.showerror("Preview Error", f"Could not open this record's PDF:\n{str(e)}")
@@ -3555,7 +3571,7 @@ class MasterSystemApp(ctk.CTk):
                 return
             temp_preview_path = os.path.join(tempfile.gettempdir(), "trutzschler_temp_preview.pdf")
             self.build_pdf_document_engine(temp_preview_path)
-            webbrowser.open(temp_preview_path)
+            open_file_with_default_app(temp_preview_path)
         except Exception as e:
             messagebox.showerror("Preview Error", f"A problem occurred while generating the PDF preview:\n{str(e)}")
 
@@ -3567,7 +3583,7 @@ class MasterSystemApp(ctk.CTk):
                 return
             temp_xl_path = os.path.join(tempfile.gettempdir(), "trutzschler_temp_preview.xlsx")
             self.build_excel_sheet_engine(temp_xl_path)
-            webbrowser.open(temp_xl_path)
+            open_file_with_default_app(temp_xl_path)
         except Exception as e:
             messagebox.showerror("Preview Error", f"A problem occurred while generating the Excel preview:\n{str(e)}")
 
