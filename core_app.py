@@ -45,7 +45,7 @@ def open_file_with_default_app(file_path):
 
 # Sidebar footer mein dikhane ke liye — launcher (ap2.py) is number ko GitHub
 # ke version.txt/release se compare karta hai, yahan sirf display ke liye hai.
-CURRENT_VERSION = "1.0"
+CURRENT_VERSION = "1.1"
 from datetime import datetime
 import calendar as calendar_module
 import customtkinter as ctk
