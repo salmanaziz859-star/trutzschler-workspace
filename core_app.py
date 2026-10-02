@@ -15,7 +15,7 @@ import subprocess
 # safe rahega, delete karne ki zaroorat nahi. Jab wapas chalana ho, sirf
 # True kar dena aur commit kar dena.
 # =====================================================================
-ACCESS_ENABLED = False
+ACCESS_ENABLED = True
 BLOCK_MESSAGE = "Softwar Access Denied.\nContact admin for support."
 
 if not ACCESS_ENABLED:
