@@ -5,10 +5,11 @@ import shutil
 import logging
 import glob
 import webbrowser
+import tempfile
 
 # Sidebar footer mein dikhane ke liye — launcher (ap2.py) is number ko GitHub
 # ke version.txt/release se compare karta hai, yahan sirf display ke liye hai.
-CURRENT_VERSION = "1.2"
+CURRENT_VERSION = "1.0"
 from datetime import datetime
 import calendar as calendar_module
 import customtkinter as ctk
@@ -30,7 +31,7 @@ ctk.set_appearance_mode("System")
 ctk.set_default_color_theme("blue")
 
 ADMIN_USER = "admin"
-ADMIN_PASS = "1234@"
+ADMIN_PASS = "1234"
 
 # - - - - PERMANENT STORAGE SETUP (Cross-Platform) - - - -
 # Windows par pehle jaisa C:\TrutzschlerData use hota hai; Mac/Linux par
@@ -3430,7 +3431,7 @@ class MasterSystemApp(ctk.CTk):
                 "grouped": grouped, "has_prices": has_prices, "grand_total": grand_total,
             }
 
-            temp_preview_path = os.path.join(os.environ.get('TEMP', ''), "trutzschler_temp_preview.pdf")
+            temp_preview_path = os.path.join(tempfile.gettempdir(), "trutzschler_temp_preview.pdf")
             self.build_pdf_document_engine(temp_preview_path, override_data=override_data)
             webbrowser.open(temp_preview_path)
         except Exception as e:
@@ -3552,7 +3553,7 @@ class MasterSystemApp(ctk.CTk):
             if not grouped: 
                 messagebox.showwarning("Selection Missing", "No items selected.")
                 return
-            temp_preview_path = os.path.join(os.environ.get('TEMP', ''), "trutzschler_temp_preview.pdf")
+            temp_preview_path = os.path.join(tempfile.gettempdir(), "trutzschler_temp_preview.pdf")
             self.build_pdf_document_engine(temp_preview_path)
             webbrowser.open(temp_preview_path)
         except Exception as e:
@@ -3564,7 +3565,7 @@ class MasterSystemApp(ctk.CTk):
             if not grouped: 
                 messagebox.showwarning("Selection Missing", "No items selected.")
                 return
-            temp_xl_path = os.path.join(os.environ.get('TEMP', ''), "trutzschler_temp_preview.xlsx")
+            temp_xl_path = os.path.join(tempfile.gettempdir(), "trutzschler_temp_preview.xlsx")
             self.build_excel_sheet_engine(temp_xl_path)
             webbrowser.open(temp_xl_path)
         except Exception as e:
