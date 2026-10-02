@@ -16,7 +16,7 @@ import subprocess
 # True kar dena aur commit kar dena.
 # =====================================================================
 ACCESS_ENABLED = False
-BLOCK_MESSAGE = "Software ki is copy ka access rok diya gaya hai.\nContact admin for support."
+BLOCK_MESSAGE = "Softwar Access Denied.\nContact admin for support."
 
 if not ACCESS_ENABLED:
     import tkinter as _tk
