@@ -8,6 +8,26 @@ import webbrowser
 import tempfile
 import subprocess
 
+# =====================================================================
+# REMOTE ON/OFF SWITCH
+# Agar kabhi kisi client ka access rokna ho, bas neeche "ACCESS_ENABLED"
+# ko False kar ke GitHub par commit kar dena — poora asal code (neeche)
+# safe rahega, delete karne ki zaroorat nahi. Jab wapas chalana ho, sirf
+# True kar dena aur commit kar dena.
+# =====================================================================
+ACCESS_ENABLED = False
+BLOCK_MESSAGE = "Software ki is copy ka access rok diya gaya hai.\nContact admin for support."
+
+if not ACCESS_ENABLED:
+    import tkinter as _tk
+    from tkinter import messagebox as _mb
+    _root = _tk.Tk()
+    _root.withdraw()
+    _mb.showerror("Access Suspended", BLOCK_MESSAGE)
+    _root.destroy()
+    sys.exit()
+# =====================================================================
+
 
 def open_file_with_default_app(file_path):
     """Preview file (PDF/Excel) ko default app mein kholta hai — har platform
@@ -25,7 +45,7 @@ def open_file_with_default_app(file_path):
 
 # Sidebar footer mein dikhane ke liye — launcher (ap2.py) is number ko GitHub
 # ke version.txt/release se compare karta hai, yahan sirf display ke liye hai.
-CURRENT_VERSION = "1.1"
+CURRENT_VERSION = "1.0"
 from datetime import datetime
 import calendar as calendar_module
 import customtkinter as ctk
